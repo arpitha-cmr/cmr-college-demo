@@ -1,3 +1,4 @@
 # cmr-college-demo
-This is my 1st Git Repository 
-Author:Arpitha.K
+This is my 1st Git Repository.
+<br>
+Author - Arpitha.K
